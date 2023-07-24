@@ -12,5 +12,5 @@ Html, Css, Sass, Git and Javascript
 ### Email: boluwatife1904@gmail.com
 
 ## GitHub Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=gLitCH1904&theme=radical&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=t3ch-spawn&theme=radical&show_icons=true&count_private=true)
 
